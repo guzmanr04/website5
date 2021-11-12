@@ -1,6 +1,6 @@
 +++
 title: "contact"
-date: "Updated 11/12/21"
+date: ""
 author: "Ramon Guzman"
 +++
 
