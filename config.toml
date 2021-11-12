@@ -36,4 +36,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "Contact"
         name = "Contact"
-        url = "/contat"
+        url = "/contact"
