@@ -1,8 +1,4 @@
-+++
-title: "contact"
-date: ""
-author: "Ramon Guzman"
-+++
+
 
 ## Contact Inforamtion
 
