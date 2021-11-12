@@ -1,5 +1,5 @@
 +++
-title: "Contact"
+title: "contact"
 date: "Updated 11/12/21"
 author: "Ramon Guzman"
 +++
