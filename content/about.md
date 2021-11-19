@@ -9,30 +9,31 @@ I have previously worked worked on very diverse projects ranging from virtual ga
 
 ## Experience
 
-I will be expanding on what experiences I have and find to be relevant.
-
+I have participated in a wide variety of projects ranging from office work to handiwork tailored to specific projects.
 
 ### Education
 
 Cesar Chavez High School
+
 2018 Graduate
 
 Allegheny College
+
 2022 Graduate
 
-#### Skills
+#### Skills 
 
-I will be elaborating on skills that I have. They do not necessarily need to be related to my career.
+I have worked with the following tools:
 
-(i.e. tools I can use, hobbies, miscellaneous items I find to be relevant)
+- Microsoft Office
+- Github
+- R Studio
+- Docker
+
+Miscellaneous:
+
+- Piano and guitar enthusiast
+- Culinary Proficiency (Food Handelers Card)
+- Supervised freelance projects in floriculture, horticulture, tillage and so forth
 
 
-# Notes for adjusting the theme
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!

@@ -8,4 +8,4 @@ description = "Personal Image"
 
 # Welcome
 
-This should show some sort of change.
+This is where one can find information regarding me, Ramon Guzman.
