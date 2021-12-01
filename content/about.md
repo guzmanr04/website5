@@ -32,6 +32,11 @@ I have worked with the following tools:
 
 Miscellaneous:
 
+
++++
+cover = "website-music.jpg"
+description = "Music Image"
++++
 - Piano and guitar enthusiast
 - Culinary Proficiency (Food Handelers Card)
 - Supervised freelance projects in floriculture, horticulture, tillage and so forth
