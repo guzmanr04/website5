@@ -32,7 +32,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "Resume"
         name = "Resume"
-        url = "/resume"
+        url = "/my_resume.pdf"
       [[languages.en.menu.main]]
         identifier = "Contact"
         name = "Contact"
