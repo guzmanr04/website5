@@ -33,10 +33,8 @@ I have worked with the following tools:
 Miscellaneous:
 
 
-+++
-cover = "website-music.jpg"
-description = "Music Image"
-+++
+cover = "img/website-music.jpg"
+
 - Piano and guitar enthusiast
 - Culinary Proficiency (Food Handelers Card)
 - Supervised freelance projects in floriculture, horticulture, tillage and so forth
