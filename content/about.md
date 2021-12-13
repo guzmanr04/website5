@@ -32,7 +32,7 @@ I have worked with the following tools:
 
 Miscellaneous:
 
-![add image]](/img/website-music.jpg).
+![add image]](/img/website-music.jpg)
 
 - Piano and guitar enthusiast
 - Culinary Proficiency (Food Handelers Card)
