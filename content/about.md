@@ -1,7 +1,9 @@
 +++
-title = "About"
+title = "about"
 date = ""
 author = "Ramon Guzman"
+cover = "img/website-music.jpg"
+description = "Personal Image"
 +++
 
 # Welcome
