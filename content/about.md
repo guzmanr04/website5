@@ -1,10 +1,4 @@
-+++
-title = "about"
-date = ""
-author = "Ramon Guzman"
-cover = "img/website-music.jpg"
-description = "Personal Image"
-+++
+
 
 # Welcome
 I have previously worked worked on very diverse projects ranging from virtual games to more complicated endeavors like establishing an online database. I have worked on projects on on my own and in both mid and large sized groups. Through these experiences I have had opportunities to develop interpersonal skills and my own abilities with every adversity that had risen. With this in mind I am looking to apply the skills that I have developed so far into databases and wrangling data so that I can continue to grow with those around me.
@@ -31,6 +25,14 @@ I have worked with the following tools:
 - Github
 - R Studio
 - Docker
+
++++
+title = "about"
+date = ""
+author = "Ramon Guzman"
+cover = "img/website-music.jpg"
+description = "Personal Image"
++++
 
 Miscellaneous:
 
